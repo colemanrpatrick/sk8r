@@ -1,0 +1,124 @@
+.bottomcontent{
+  border: 20px solid white;
+  float: left;
+  width: 94%;
+  height: 320px;
+  margin-top: 10%;
+  margin-left: 1%;
+  display: inline-block;
+  padding-left: 0px;
+  background-color: white;
+  margin-bottom: 5%;
+}
+
+.bottomleft {
+  width: 40%;
+  height: 100%;
+  /*border: 1px solid white;*/
+  float: left;
+  display: inline-block;
+  margin-right: 10%;
+}
+
+.bottomheader {
+  height: 50px;
+  width: 100%;
+  font-size: 25px;
+  font-family: 'Roboto condensed',sans-serif;
+  /*border-bottom: 2px solid white;*/
+  background-color: white;
+}
+
+.bottomfiller {
+  height: 100px;
+  width: 100%;
+  font-size: 18px;
+  font-family: 'Roboto condensed',sans-serif;
+  border-bottom: 2px solid white;
+  padding-top: 20px;
+  background-color: white;
+}
+
+.bottomsocial {
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  display: inline-block;
+}
+.socialbox2 {
+  width:20px;
+  height:20px;
+  float: left;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  margin: 2px;
+
+}
+
+
+.bottomright{
+  width: 48%;
+  height: 100%;
+  /*border: 1px solid white;*/
+  float: left;
+  background-color: white;
+}
+.nameinput{
+  height: 40px;
+  width: 100%;
+  display: block;
+  /*border: 1px solid white;*/
+  border-color: white;
+
+}
+.emailinput{
+  height: 40px;
+  width: 100%;
+  display:block;
+  /*border: 1px solid white;*/
+  background-color: white;
+
+
+}
+
+.messageinput {
+  height: 60%;
+  width: 100%;
+  display:block;
+  /*border: 1px solid white;*/
+  background-color: white;
+  padding-bottom: 10px;
+}
+
+input.inputbox {
+  display:block;
+  width: 100%;
+  height: 50%;
+  font-size: 10px;
+  margin:0;
+  float: left;
+  border: 2px solid grey;
+}
+input.inputbox2 {
+  display:block;
+  width: 100%;
+  height:200px;
+  font-size: 10px;
+  margin:0;
+  float: left;
+  border: 2px solid grey;
+  text-align: left;
+  margin-top: 0;
+  box-shadow: 1px black solid;
+
+}
+
+.bottombutton {
+  float: left;
+  width: 100%;
+  height: 40px;
+  display: inline-block;
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 1%
+}

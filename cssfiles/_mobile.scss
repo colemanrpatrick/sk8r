@@ -1,0 +1,236 @@
+@media (min-width:0px) and (max-width:480px) {
+
+.subscribebar {
+    width: 55%;
+    height:100%;
+    /*border: 2px solid white;*/
+    float:left;
+    text-align: right;
+    color: white;
+    font-size: 10px;
+    font-family: 'Roboto condensed',sans-serif;
+    padding-top: 25px;
+}
+
+.facebook {
+height: 100%;
+width: 100%;
+padding-top: 10px;
+/*border: 2px solid white;*/
+display: inline-block;
+
+}
+
+.socialbox {
+   width:20%;
+   height:100%;
+   margin-left:5%;
+   padding-top: 6px;
+   float: left;
+
+}
+
+.navbarcontainer {
+width: 100%;
+display: block;
+padding-top: 10px;
+margin-bottom: 40%;
+margin-left: 5%
+}
+
+
+.topbutton {
+ height: 50%;
+ width: 100%;
+ color: white;
+ text-align: center;
+ font-size: 50%;
+ font-family: sans-serif;
+ font-weight: lighter;
+ padding-top: 5px;
+ background-color: #B4292E;
+ margin-left: 0.5%;
+ margin-top: 0.5%;
+ float: right;
+ transition:background-color 0.9s ease;
+ /*border-bottom: 5px solid rgba(0, 0, 0, 0.1);*/
+
+}
+
+.content1 {
+  height: 100%;
+  width: 100%;
+  border: 10px solid white;
+  float:left;
+  background-image: url('top-image.png');
+  background-size: 250% auto;
+  background-position: 34% 22%;
+  margin-bottom: 25%
+}
+
+.cameraoverlay1 {
+  height: 280px;
+  width: 100%;
+  float:left;
+  background-image: url('grid.png');
+  background-size: 500% auto;
+  opacity: 0.5;
+}
+
+.peralta {
+  width: 100%;
+  height:100%;
+  float: left;
+  background-image: url('peralta-logo.png');
+  background-size: 60% auto;
+  background-repeat: no-repeat;
+  background-position: 0% 4%;
+}
+
+
+.newscontent {
+  color: #838383;
+  font-size: 12px;
+  font-family: 'Roboto',sans-serif;
+  text-align: left;
+}
+
+.news {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  display: block;
+  float: left;
+  border: 15px solid white;
+  font-size: 20px;
+  font-family: 'Roboto condensed',sans-serif;
+  margin: 1%;
+}
+
+.sk8rbloc {
+  width: 100%;
+  height: 100%;
+  float: left;
+  /*border: 2px solid white;*/
+  display: block;
+  margin-left: 1%;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-weight:bold;
+  font-family: 'roboto';
+}
+.col-l {
+  width:100%;
+  height:100%;
+  /*border: 1px solid white;*/
+  display: block;
+  float: left;
+}
+.col-l-t {
+  width: 100%;
+  height: 150%;
+  display: block;
+  float: left;
+  margin-bottom: 1%;
+}
+
+.topleft {
+  width: 100%;
+  height: 100%;
+  border: 5px solid white;
+  float: left;
+  background-image: url("sk8er-4.png");
+  display: block;
+  background-size: cover;
+  background-position: 80% 22%;
+  border-bottom: 1%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.topright {
+  width: 100%;
+  height: 100%;
+  border: 5px solid white;
+  background-image: url("sk8er-3.png");
+  background-size: cover;
+  float:left;
+  display: block;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
+
+.col-r {
+  height: 20%;
+  width: 100%;
+  border: 5px solid white;
+  display: block;
+  float: left;
+  background-image: url("sk8er-2.png");
+  background-size: cover;
+  background-position: 80% 22%;
+  margin-left: 1%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.col-l-b {
+ width: 100%;
+ height: 100%;
+ border: 5px solid white;
+ float: left;
+ background-image: url("sk8er-1.png");
+ background-position:  25%;
+ display: block;
+ padding-top: 1%;
+ margin-top: 5%;
+ margin-bottom: 5%;
+}
+
+.boards {
+  width: 100%;
+  height: 20%;
+  /*border: 5px solid white;*/
+  margin-top: 50px;
+  display: inline-block;
+  background-color: white;
+  align-items: center;
+  margin-left: 5%;
+}
+
+.sk8b {
+  width: 40%;
+  height: 50%;
+  display: inline-block;
+  margin-left: 2%;
+}
+.bottomcontent {
+  border: 20px solid white;
+  float: left;
+  width: 94%;
+  height: 100%;
+  margin-top: 10%;
+  margin-left: 1%;
+  display: inline-block;
+  padding-left: 0px;
+  background-color: white;
+  margin-bottom: 5%; }
+
+.bottomleft {
+  width: 100%;
+  height: 100%;
+  /*border: 1px solid white;*/
+  float: left;
+  display: inline-block;
+  margin-right: 10%; }
+
+  .bottomright{
+    width: 100%;
+    height: 100%;
+    /*border: 1px solid white;*/
+    float: left;
+    background-color: white;
+  }
+
+}

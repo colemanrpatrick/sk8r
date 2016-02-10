@@ -1,0 +1,27 @@
+
+.content1 {
+  height: 100%;
+  width: 100%;
+  border: 10px solid white;
+  float:left;
+  background-image: url('top-image.png');
+  background-size: 150% auto;
+  background-position: 34% 22%;
+}
+.cameraoverlay1 {
+  height: 280px;
+  width: 100%;
+  float:left;
+  background-image: url('grid.png');
+  background-size: 200% auto;
+  opacity: 0.5;
+}
+.peralta {
+  width: 100%;
+  height:100%;
+  float: left;
+  background-image: url('peralta-logo.png');
+  background-size: 46% auto;
+  background-repeat: no-repeat;
+  background-position: 0% 44%;
+}
